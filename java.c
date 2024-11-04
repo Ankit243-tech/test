@@ -10,5 +10,7 @@ int main() {
 
     printf("Sum = %d\n", sum);
 
+    printf("MY Name");
+
     return 0;
 }
